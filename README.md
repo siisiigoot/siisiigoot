@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, </h1>
-<h3 align="center">Father of 3 kids from Bandung, India &#127470;&#127475</h3>
+<h3 align="center">Father of 3 kids from Bandung, Indoneisa</h3>
 
 
 <p align="left"> <a href="https://twitter.com/si6ot" target="blank"><img src="https://img.shields.io/twitter/follow/si6ot?logo=twitter&style=for-the-badge" alt="si6ot" /></a> </p>
